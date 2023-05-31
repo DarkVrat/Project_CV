@@ -5,3 +5,4 @@
 Датасет для данной нейросети собирался вручную в открытых источниках. 
 
 Веса натренированой модели: https://drive.google.com/file/d/1VQj3hxc5HMXj3FqMSevIVWHO7spvmjY5/view?usp=drive_link
+Поместить в папку model/
