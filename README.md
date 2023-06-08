@@ -7,6 +7,8 @@
 
 При применении данной нейронной сети на практике можно использовать приложение прототип которого представлен в файле model_test.ipynb, на вход приходит изображение, и сравнивается со всеми изображениями в папке Database, и выдайт ответ найден ли в ней этот человек.
 
+В project.ipynb код для обучения нейронки.
+
 # Стек технологий: 
 Python, sklearn, Keras, TensorFlow, Numpy, OpenCV
 
@@ -34,4 +36,4 @@ Python, sklearn, Keras, TensorFlow, Numpy, OpenCV
 
 Демонстация работы: https://www.youtube.com/watch?v=A9r3Kv5en3E
 
-Презентация: 
+Презентация: https://docs.google.com/presentation/d/1Pa5c7bn8OwWRUgJSbxL0y8135JIk-mPm/edit?usp=drive_link&ouid=112372643237169604553&rtpof=true&sd=true
